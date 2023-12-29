@@ -27,7 +27,7 @@ This portfolio website serves as a central hub to present my professional backgr
 - JavaScript
 
 ## Setup and Installation
-1. Clone this repository: ``
+1. Clone this repository: `https://github.com/Arpit-Nirmal/Portfilio-Website.git`
 2. Open the project in your favorite code editor.
 3. Customize the content in HTML and update styles in CSS.
 4. Replace project images and details in the respective sections.
